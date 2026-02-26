@@ -1,4 +1,4 @@
-# Project Title: 📝 Full Stack To-Do Application
+# Project Title: 📝 Enhanced To-Do Application
 # Description
 
 Developed a Full Stack To-Do Management System using React, Spring Boot, and MySQL. Implemented RESTful APIs to support full CRUD operations. Designed a layered backend architecture and integrated frontend with backend using Axios. Added features such as manual task ID entry, separate edit page, task completion toggle, and dynamic status updates with Bootstrap UI enhancements.
@@ -11,9 +11,9 @@ Developed a Full Stack To-Do Management System using React, Spring Boot, and MyS
 
 **Edit Page**
 
-![Edit page screenshot]()
+![Edit page screenshot](https://github.com/mohamud007/todo-fullstack-app/blob/495099a54277c8d47c51cc0bd9582fa72e5a4292/Screenshot%202026-02-26%20131411.png)
 
-# 📝 Full Stack To-Do Application
+# 📝 Enhanced To-Do Application
 
 A Full Stack To-Do application built using:
 
